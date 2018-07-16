@@ -1,0 +1,1 @@
+console.log("Plugin 1 entry point");
