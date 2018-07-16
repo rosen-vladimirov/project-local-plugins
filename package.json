@@ -8,6 +8,8 @@
 	},
 	"dependencies": {
 		"nativescript-theme-core": "~1.0.4",
+		"plugin1": "file:plugin1",
+		"plugin2": "file:plugin2",
 		"tns-core-modules": "~4.1.0"
 	}
 }
